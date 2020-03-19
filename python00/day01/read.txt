@@ -1,0 +1,6 @@
+python基础
+
+官方建议使用下午线变量名，而不是驼峰
+
+userName = "zhangsan"
+user_name = "zhangsan"

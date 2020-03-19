@@ -1,0 +1,12 @@
+
+
+pycharm在打开.md后缀的文件时，会卡死。
+
+
+所以在创建文件的时候坚决不要创建.md文件
+
+
+快速安装需要的包
+pip install numpy -i http://pypi.douban.com/simple/ --trusted-host pypi.douban.com
+
+pip install ortools -i http://pypi.douban.com/simple/ --trusted-host pypi.douban.com
